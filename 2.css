@@ -1,0 +1,66 @@
+body 
+{
+background-image:url("lol4.jpg"); 
+}
+
+.topnav {
+  overflow: hidden;
+  border:3px solid #19398a;
+  padding:10px;
+}
+input[type=button]
+{
+  background-color:#19398a;
+  color:white;
+  cursor:pointer;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} 
+input[type=button]:hover
+{
+ background-color:#ff99c7;
+ color:white;
+ }
+
+.botnav {
+  overflow: hidden;
+  border:3px solid  #19398a;
+  padding-left:20px;
+  padding-right:70px;
+  margin-left:655px; 
+  margin-right:650px;
+}
+p
+{
+text-indent:10px;
+}
+.purplecap{
+  background-color:purple!important;
+
+}
+.orangecap{
+  background-color: orange!important;
+}
+img 
+{
+
+margin:5px;
+width: 10%;
+border-radius: 50%;
+}
+li{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 30;
+}
+#searchstadiums{
+  align-items: center;
+}
+table,td,tr,th{
+  border: 1px solid #19398a;
+  font-size: large;
+}
